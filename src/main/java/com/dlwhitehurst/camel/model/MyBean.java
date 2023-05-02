@@ -1,4 +1,4 @@
-package com.dlwhitehurst.camel;
+package com.dlwhitehurst.camel.model;
 
 public class MyBean {
     private Integer id;
