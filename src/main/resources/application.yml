@@ -3,9 +3,6 @@ server:
 camel:
   springboot:
     name: ServicesRest
-dlwhitehurst:
-  api:
-    path: '/camel'
 management:
   port: 8081
 endpoints:
