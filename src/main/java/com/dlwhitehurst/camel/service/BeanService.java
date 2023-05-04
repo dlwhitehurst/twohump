@@ -24,12 +24,6 @@ import com.dlwhitehurst.camel.model.MyBean;
 public interface BeanService {
 
 
-    /**
-     * Create Bean
-     *
-     * @param user
-     *            the user
-     */
     void createBean(MyBean mybean);
 
 }
