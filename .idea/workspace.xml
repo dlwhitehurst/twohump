@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0df795b3-a01a-4af4-a81b-dea02e74c2f0" name="Changes" comment="something in workspace changed (idea)">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+    <list default="true" id="0df795b3-a01a-4af4-a81b-dea02e74c2f0" name="Changes" comment="unused properties">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dlwhitehurst/camel/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dlwhitehurst/camel/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +125,7 @@
       <workItem from="1682981488561" duration="12968000" />
       <workItem from="1682999273618" duration="13000" />
       <workItem from="1682999318378" duration="402000" />
-      <workItem from="1683037065141" duration="2543000" />
+      <workItem from="1683037065141" duration="2888000" />
     </task>
     <task id="LOCAL-00001" summary="rest resources working">
       <created>1683037097656</created>
@@ -151,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683211256645</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed datasource assist and some unused imports">
+      <created>1683211565757</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683211565757</updated>
+    </task>
+    <task id="LOCAL-00005" summary="unused properties">
+      <created>1683211823159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683211823159</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +171,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rest resources working" />
     <MESSAGE value="something in workspace changed (idea)" />
-    <option name="LAST_COMMIT_MESSAGE" value="something in workspace changed (idea)" />
+    <MESSAGE value="fixed datasource assist and some unused imports" />
+    <MESSAGE value="unused properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="unused properties" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
